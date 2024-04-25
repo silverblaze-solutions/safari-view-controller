@@ -40,7 +40,7 @@ var SafariViewController = /** @class */ (function (_super) {
     SafariViewController.pluginName = "SafariViewController";
     SafariViewController.plugin = "cordova-plugin-safariviewcontroller";
     SafariViewController.pluginRef = "SafariViewController";
-    SafariViewController.repo = "https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller";
+    SafariViewController.repo = "https://github.com/silverblaze-solutions/cordova-plugin-safariviewcontroller";
     SafariViewController.platforms = ["Android", "iOS"];
     SafariViewController = tslib.__decorate([], SafariViewController);
     return SafariViewController;

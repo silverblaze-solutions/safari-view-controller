@@ -17,7 +17,7 @@ export interface SafariViewControllerOptions {
  * @description
  * For displaying read-only web content.
  *
- * Requires Cordova plugin: `cordova-plugin-safariviewcontroller`. For more info, please see the [Safari View Controller plugin docs](https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller).
+ * Requires Cordova plugin: `cordova-plugin-safariviewcontroller`. For more info, please see the [Safari View Controller plugin docs](https://github.com/silverblaze-solutions/cordova-plugin-safariviewcontroller).
  * @usage
  * ```typescript
  * import { SafariViewController } from '@awesome-cordova-plugins/safari-view-controller/ngx';

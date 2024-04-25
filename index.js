@@ -29,7 +29,7 @@ var SafariViewControllerOriginal = /** @class */ (function (_super) {
     SafariViewControllerOriginal.pluginName = "SafariViewController";
     SafariViewControllerOriginal.plugin = "cordova-plugin-safariviewcontroller";
     SafariViewControllerOriginal.pluginRef = "SafariViewController";
-    SafariViewControllerOriginal.repo = "https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller";
+    SafariViewControllerOriginal.repo = "https://github.com/silverblaze-solutions/cordova-plugin-safariviewcontroller";
     SafariViewControllerOriginal.platforms = ["Android", "iOS"];
     return SafariViewControllerOriginal;
 }(AwesomeCordovaNativePlugin));
